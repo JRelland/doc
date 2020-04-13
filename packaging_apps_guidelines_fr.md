@@ -139,9 +139,10 @@ Dans les deux cas, le mainteneur est encouragé à réfléchir à la possibilit�
 Rappel: une question de type `app` prend pour réponse l'identifiant d'une des apps déjà installée.
 
 Quelques liens intéressants pour aider au choix de licence:
-* [Des fiches explicatives sur les licences libres](https://www.inria.fr/content/download/5896/48452/version/2/file/INRIA_recueil_fiches_licences_libres_vf.pdf)
 * [La documentation sur les licences du projet GNU](https://www.gnu.org/licenses/licenses.fr.html)
+* [La documentation sur les licences de l'OSI "Open Source Initiative par catégorie"](https://opensource.org/licenses/category)
 * [Un guide du projet GNU pour aider au choix d'une licence](https://www.gnu.org/licenses/license-recommendations.fr.html)
+* [Un guide sur les fondamentaux juridiques du logiciel libre et open source](https://cnll.fr/media/LivretBleu_Juridique-2eEdition_GT-LogicielLibre_Systematic_Nov2016_web.pdf)
 
 #### YEP 1.4
 ##### Informer sur l'intention de maintenir un paquet   | brouillon | manuel | OFFICIAL |
